@@ -1,7 +1,7 @@
 # Entity-Resolution-Exercise
 
 Files included with this exercise:
-1) The original csv files, assessment PDF and readme questions provided with the exercise
+1) The original csv files and assessment pdf provided with the exercise
 2) entityresolution.py: The code for the entire pipeline in Dagster and Python
 3) query.py: The code for the SQL queries as strings used while executing the SQL code by making 
 calls to the database
