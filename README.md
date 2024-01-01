@@ -1,5 +1,7 @@
 # Entity-Resolution-Exercise
 
+By Eric Wolfson
+
 Files included with this exercise:
 1) The original csv files and assessment pdf provided with the exercise
 2) entityresolution.py: The code for the entire pipeline in Dagster and Python
