@@ -13,4 +13,5 @@ calls to the database
 exercise
 7) ApproachAndAssumptionsPPSlides.pptx and .pdf: A technical explanation of the pipeline and answer to 
 the first readme question. Click "more pages" at the bottom of the viewer to see all the remaining contents of the pdf.
-8) ReadmeAnswers: The answers to questions 2 and 3 of the Readme.
+It might be easier to open the .pptx file, since the images will be clearer.
+9) ReadmeAnswers: The answers to questions 2 and 3 of the Readme.
