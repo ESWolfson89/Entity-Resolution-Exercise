@@ -2,6 +2,9 @@
 
 By Eric Wolfson
 
+You can view the solution in GitHub, or download a zip file of the repository
+by click "Code", then "download zip".
+
 Files included with this exercise:
 1) The original csv files and assessment pdf provided with the exercise
 2) entityresolution.py: The code for the entire pipeline in Dagster and Python
