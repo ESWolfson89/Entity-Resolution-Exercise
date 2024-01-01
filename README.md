@@ -11,4 +11,4 @@ calls to the database
 exercise
 7) ApproachAndAssumptionsPPSlides.pptx: A technical explanation of the pipeline and answer to 
 the first readme question 
-8) ReadmeAnswers: The answers to questions 2 and 3 of the Readme (this document)
+8) ReadmeAnswers: The answers to questions 2 and 3 of the Readme.
