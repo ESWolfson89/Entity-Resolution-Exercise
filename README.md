@@ -9,6 +9,6 @@ calls to the database
 5) HowToRun.pdf: The steps I took to set up and run the pipeline
 6) current_state_final.csv: the final result csv file run with the original csv files provided with the 
 exercise
-7) ApproachAndAssumptionsPPSlides.pptx: A technical explanation of the pipeline and answer to 
-the first readme question 
+7) ApproachAndAssumptionsPPSlides.pptx and .pdf: A technical explanation of the pipeline and answer to 
+the first readme question. Click "more pages" at the bottom of the viewer to see all the remaining contents of the pdf.
 8) ReadmeAnswers: The answers to questions 2 and 3 of the Readme.
