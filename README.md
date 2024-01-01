@@ -3,7 +3,7 @@
 By Eric Wolfson
 
 You can view the solution in GitHub, or download a zip file of the repository
-by click "Code", then "download zip".
+by clicking the green "Code" bottom at the top right, then "download zip".
 
 Files included with this exercise:
 1) The original csv files and assessment pdf provided with the exercise
