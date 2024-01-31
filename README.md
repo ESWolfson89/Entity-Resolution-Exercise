@@ -1,7 +1,5 @@
 # Entity-Resolution-Exercise
 
-By Eric Wolfson
-
 You can view the solution in GitHub, or download a zip file of the repository
 by clicking the green "Code" bottom at the top right, then "download zip".
 
